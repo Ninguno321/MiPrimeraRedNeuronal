@@ -48,9 +48,9 @@ Nuestra red neuronal será la más simple que hay.
 
 Las redes neuronales se separan en capas, cada una puede tener una o más neuronas pero siempre tienen una capa de entrada (donde se reciven los datos de entrada) y una capa de salida (donde obtenemos el resultado calculado). En redes más complejas pueden haber capas ocultas.
 
-Las neuronas se conectan con conexiones, en nuestro caso solo tenemos una conexión que conecta la neurona de entrada con la de salida. Cada una de las conexiones tiene un peso asignado que representa la importancia de la conexión entre las neuronas.   FALTAAAAAA
+Las neuronas se conectan con conexiones, en nuestro caso solo tenemos una conexión que conecta la neurona de entrada con la de salida. Cada una de las conexiones tiene un peso asignado que representa la importancia de la conexión entre las neuronas.
 
-Cada neurona (menos la de entrada) tiene un sesgo (valor numérico) FALTAAAAAA
+Cada neurona (menos la de entrada) tiene un sesgo (valor numérico).
 
 
                             | ENTRADA | SALIDA |
