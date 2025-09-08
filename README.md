@@ -3,6 +3,7 @@
 Creación de una red neuronal desde cero usando Python y Tensorflow.
 
 Podemos usar [Google Colab](https://colab.research.google.com/) para no tener que instalar nada. 
+[Cómo usar Google Colab](googleColabExp.md)
 
 
 Anlizaremos cómo crearla y explicaremos cómo y por qué funciona, también veremos las diferencias entre el # APRENDIZAJE AUTOMÁTICO # y la # PROGRAMACIÓN REGULAR #.
