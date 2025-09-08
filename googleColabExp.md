@@ -15,3 +15,7 @@ Vamos a **Entorno de ejecución** -> **Cambiar tipo de entorno de ejecución** y
 # Creación del entorno
 
 Iremos a **Archivo** -> **Cuaderno nuevo**. Ya podemos ponernos a escribir código.
+
+Para ejecutarlo le damos al botón de play y para añadir más código hacemos lo de la imagen.
+
+![icodigo](imagenes/icodigo.png)
