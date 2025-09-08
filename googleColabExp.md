@@ -5,3 +5,13 @@ Es una herramienta gratuira de Google que nos permite escribir y ejecutar códig
 Sólo necesitamos una cuenta de google.
 
 ![Buscador](imagenes/buscador.png)
+
+# Configuración
+
+Vamos a **Entorno de ejecución** -> **Cambiar tipo de entorno de ejecución** y lo pondremos como lo de la imagen.
+
+![Config](imagenes/config.png)
+
+# Creación del entorno
+
+Iremos a **Archivo** -> **Cuaderno nuevo**. Ya podemos ponernos a escribir código.
