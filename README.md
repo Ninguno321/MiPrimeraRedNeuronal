@@ -90,6 +90,13 @@ Se los daremos a la red y ella aprenderá la relación ajustando automáticament
 # Código con explicaciones detalladas
 [Código explicado](redNeuronalExpl.py)
 
+# Imagen con los resultados obtenidos
+![Buscador](imagenes/resultados.png)
+
+
+
+
+
 
 
 
